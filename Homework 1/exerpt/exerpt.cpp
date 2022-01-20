@@ -15,6 +15,6 @@ int main()
 {
     //quote from Charles Dickens, A tale of two cities
     //then tell wind and fire where to stop," returned madame; "but don't tell me."
-    std::cout << "Then tell Wind and Fire where to stop, returned madame; but don't tell me.";
+    std::cout << "\"Then tell Wind and Fire where to stop,\" returned madame; \"but don't tell me.\"";
 }
 
